@@ -1,0 +1,47 @@
+<!-- <div class="row col">
+    <div class="card shadow col m-2 p-2">
+        <div class="card-header">
+<div class="card-title text-center">
+    <h1>
+        Faculty of Computer 
+    </h1>
+</div>
+        </div>
+       
+         
+            <img class="img card-img-bottom" src="fcs.jpg" alt="">
+            
+        
+    </div>
+
+    <div class="card col m-2 p-2">
+        <div class="card-header">
+<div class="card-title text-center">
+    <h1>
+        Faculty of Language 
+    </h1>
+</div>
+        </div>
+       
+            <img class="img" src="fls.jpg" alt="">
+
+    
+    </div>
+
+    <div class="card col m-2 p-2">
+        <div class="card-header">
+<div class="card-title text-center">
+    <h1>
+        Faculty of Business 
+
+    </h1>
+</div>
+        </div>
+   
+            <img class="img" src="fbs.jpg" alt="">
+
+      
+    </div>
+
+
+</div> -->
