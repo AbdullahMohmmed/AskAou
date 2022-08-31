@@ -8,6 +8,26 @@ scroll-behavior: smooth;
 
 }
 
+.MyButton {
+  background: #fff;
+  color: rgb(0, 0, 0);
+}
+
+.MyButton:hover, .MyButton:focus {
+  background: rgb(0, 0, 0);
+  color: #fff;
+}
+.navbar a:hover {
+  background-color: rgb(137, 137, 137);
+  
+  color: black;
+}
+
+/* Active/current link */
+.navbar a.active {
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
 
 .navbar{
 
